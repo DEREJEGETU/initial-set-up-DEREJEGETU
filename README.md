@@ -13,11 +13,11 @@ Github is the primary site that software developers throughout the world use to 
 
 ### Install Python
 
-We will be using *Python 3.6.3* in the course. You can get it [here] (https://www.python.org/downloads/).
+We will be using __Python 3.6.3__ in the course. You can get it [here] (https://www.python.org/downloads/).
 
 ### Install Anaconda
 
-We will be using *Anaconda 5.0.0* in the course. Anaconda gives you Jupyter and the conda package manager. Be sure you get the version to match the Python version. You'll find it [here](https://www.anaconda.com/download/).
+We will be using __Anaconda 5.0.0__ in the course. Anaconda gives you Jupyter and the conda package manager. Be sure you get the version to match the Python version. You'll find it [here](https://www.anaconda.com/download/).
 
 
 ## For Windows Users Only
